@@ -36,6 +36,6 @@ Nếu Quản trị viên chỉ gõ `/research_ideas` (Không kèm URL), Hệ th�
 Tóm tắt trên Khung Chat:
 - Số lượng URL đã quét.
 - Số lượng Ý tưởng mới được sinh ra.
-- Thông báo: *"Quản trị viên vui lòng gọi lệnh `/danh_sach_y_tuong` để hoàn tất đồng bộ và duyệt các Ý tưởng mới trên Google Sheets."*
+- Thông báo: *"Quản trị viên vui lòng gọi lệnh `/sheets_action` để hoàn tất đồng bộ và duyệt các Ý tưởng mới trên Google Sheets."*
 
 // turbo-all
